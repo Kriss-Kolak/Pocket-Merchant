@@ -37,4 +37,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or support, please contact [kris@example.com](mailto:kris@example.com).
+For questions or support, please contact [krzysiukolak@gmail.com](mailto:kkrzysiukolak@gmail.com).
