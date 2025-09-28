@@ -1,0 +1,20 @@
+{
+    "items":[
+        {
+            "ID":1,
+            "Name":"Coal",
+            "Price":10
+        },
+        {
+            "ID":2,
+            "Name":"Wool",
+            "Price":5
+        },
+        {
+            "ID":3,
+            "Name":"wheat",
+            "Price":2
+        }
+
+    ]
+}

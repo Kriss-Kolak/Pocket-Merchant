@@ -1,0 +1,19 @@
+{
+    "locations":[
+        {
+            "ID":1,
+            "Name":"Dark Forest",
+            "Population":500
+        },
+        {
+            "ID":2,
+            "Name":"Lost Fisherman's Bay",
+            "Population":100
+        },
+        {
+            "ID":3,
+            "Name":"Ice Cold Tundra",
+            "Population":50
+        }
+    ]
+}
